@@ -1,0 +1,12 @@
+.title {
+    width: 100%;
+    text-align: center;
+    font-size: 3rem;
+    text-decoration: underline;
+    color: rgb(225, 120, 113);
+    margin-bottom: 50px;
+  }
+
+  .container {
+    text-align: center;
+  }

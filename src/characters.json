@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+
+"name": "Makise Kurisu",        "image": "https://vignette.wikia.nocookie.net/steins-gate/images/8/83/Kurisu_profile.png/revision/latest/scale-to-width-down/310?cb=20141222010103", "clicked": false
+    },
+    {
+        "id": 2,
+
+"name": "Okabe Rintarou",        "image": "https://vignette.wikia.nocookie.net/steins-gate/images/5/54/SG0Okabe.jpeg/revision/latest?cb=20180503191905", "clicked": false
+    },
+    {
+        "id": 3,
+
+"name": "Mayuri Shiina",        "image": "https://vignette.wikia.nocookie.net/steins-gate/images/0/0e/Mayuri_Shiina.png/revision/latest/scale-to-width-down/310?cb=20141213013536", "clicked": false
+    },
+    {
+        "id": 4,
+
+"name": "Suzuha Amane",        "image": "https://vignette.wikia.nocookie.net/steins-gate/images/b/b9/Suzuha_profile.png/revision/latest/scale-to-width-down/310?cb=20141222004503", "clicked": false
+    },
+    {
+        "id": 6,
+
+"name": "Luka Urushibara",        "image": "https://vignette.wikia.nocookie.net/steins-gate/images/8/8e/Ruka_profile.jpg/revision/latest?cb=20110629082940", "clicked": false
+    },
+    {
+        "id": 7,
+
+"name": "Yuko Amane",        "image": "https://vignette.wikia.nocookie.net/steins-gate/images/8/81/Amane_Yuki_profile.png/revision/latest/scale-to-width-down/310?cb=20151222151743", "clicked": false
+    },
+    {
+        "id": 8,
+
+"name": "Moeka Kiryu",        "image": "https://vignette.wikia.nocookie.net/steins-gate/images/d/de/Moeka_Kiryuu.png/revision/latest/scale-to-width-down/310?cb=20141213014643", "clicked": false
+    },
+    {
+        "id": 9,
+
+"name": "Itaru Hashida",        "image": "https://vignette.wikia.nocookie.net/steins-gate/images/3/3c/Itaru_Hashida_Profile.png/revision/latest/scale-to-width-down/233?cb=20180418235108", "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Faris Nyannyan",
+        "image": "http://static.tvtropes.org/pmwiki/pub/images/sg_akiha_rumiho.png", "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Mr. Braun",
+        "image": "https://vignette.wikia.nocookie.net/steins-gate/images/4/49/Ten_bma01a.png/revision/latest?cb=20120201132021", "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Tennouji Nae",
+        "image": "http://static.tvtropes.org/pmwiki/pub/images/sg_tennouji_nae.png", "clicked": false
+    },
+    {"id": 13,
+        "name": "Doctor Nakabachi",
+        "image": "http://c-8oqtgrjgwu46x24uvcvkex2evx78vtqrgux2eqti.g00.tvtropes.org/g00/3_c-8vx78vtqrgu.qti_/c-8OQTGRJGWU46x24jvvrx3ax2fx2fuvcvke.vx78vtqrgu.qtix2froykmkx2frwdx2fkocigux2fui_ocmkug_ujqwkejk.rpix3fk32e.octmx3dkocig_$/$/$/$/$", "clicked": false}
+]
